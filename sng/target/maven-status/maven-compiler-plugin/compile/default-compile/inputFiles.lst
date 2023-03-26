@@ -11,6 +11,7 @@ C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sn
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\entity\Educacion.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\service\EducacionService.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\service\ExperienciaService.java
+C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\service\ProyectoService.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\Service\UserDetailsImpl.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\repository\SkillsRepository.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\service\ImpPersonService.java
@@ -29,11 +30,15 @@ C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sn
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\Service\RolService.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\Enums\RolNombre.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\repository\ExperienciaRepository.java
+C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\repository\ProyectoRepository.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\Controller\Mensaje.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\jwt\JwtProvider.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\dto\dtoEducacion.java
+C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\dto\dtoProyecto.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\jwt\JwtEntryPoint.java
+C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\controller\ProyectoController.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\MainSecurity.java
+C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\entity\Proyecto.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\repository\IPersonRepository.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\dto\dtoExperiencia.java
 C:\Users\santi\Desktop\Programacion\Argentina Programa\Portfolio\Back End\sng\sng\src\main\java\com\santiagogariboldi\sng\Security\Dto\LoginUsuario.java
