@@ -17,7 +17,9 @@ com\santiagogariboldi\sng\service\SkillsService.class
 com\santiagogariboldi\sng\controller\EducacionController.class
 com\santiagogariboldi\sng\Security\Repository\iRolRepository.class
 com\santiagogariboldi\sng\dto\dtoPerson.class
+com\santiagogariboldi\sng\service\ProyectoService.class
 com\santiagogariboldi\sng\Security\jwt\JwtEntryPoint.class
+com\santiagogariboldi\sng\repository\ProyectoRepository.class
 com\santiagogariboldi\sng\Security\jwt\JwtTokenFilter.class
 com\santiagogariboldi\sng\Security\Controller\Mensaje.class
 com\santiagogariboldi\sng\controller\SkillsController.class
@@ -32,8 +34,11 @@ com\santiagogariboldi\sng\Security\Repository\iUsuarioRepository.class
 com\santiagogariboldi\sng\entity\Educacion.class
 com\santiagogariboldi\sng\Security\Controller\AuthController.class
 com\santiagogariboldi\sng\repository\ExperienciaRepository.class
+com\santiagogariboldi\sng\dto\dtoProyecto.class
+com\santiagogariboldi\sng\entity\Proyecto.class
 com\santiagogariboldi\sng\repository\EducacionRepository.class
 com\santiagogariboldi\sng\Security\Enums\Entity\Usuario.class
 com\santiagogariboldi\sng\Security\Dto\NuevoUsuario.class
+com\santiagogariboldi\sng\controller\ProyectoController.class
 com\santiagogariboldi\sng\repository\IPersonRepository.class
 com\santiagogariboldi\sng\Security\Service\RolService.class
